@@ -7,7 +7,7 @@
 - *Testing, including tests of REST-API's*
 - *CI and CONTINUOUS DELIVERY*
 
-## CA-2 startcode (group A, Bornholm)
+## CA-2 startcode
 
 ### Quick start guide
 #### Backend
